@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890022834890",
+    "project_id": "enovaapp-a6db9",
+    "storage_bucket": "enovaapp-a6db9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890022834890:android:beac17e45922644a39fa33",
+        "android_client_info": {
+          "package_name": "com.example.enova_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtpJI7Qg3Yl4IPX9JvPQJDP8zVTWRb9DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
